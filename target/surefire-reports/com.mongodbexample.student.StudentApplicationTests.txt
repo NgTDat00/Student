@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.mongodbexample.student.StudentApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.655 s <<< FAILURE! - in com.mongodbexample.student.StudentApplicationTests
+com.mongodbexample.student.StudentApplicationTests  Time elapsed: 0.653 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
